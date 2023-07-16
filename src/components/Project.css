@@ -1,0 +1,48 @@
+.picture img{
+width: 350px;
+height: 450px;
+left: 0;
+}
+.pics{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 12%;
+   
+}
+.wwds{
+    padding: 13px;
+    text-align: start;
+    background-color: white;
+    width: 350px;
+    height: 380px;
+    padding-left: 2%;
+    margin-top: 7%;
+    margin-left: 23%;
+    position: absolute;
+
+   
+}
+.wwds p{
+    width: 350px;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.wwds button{
+    border: none;
+    padding: 7px;
+    width: 100px;
+    background-color: rgb(7, 7, 174);
+    border-radius: 20px;
+}
+.wwds a{
+    color: white;
+    text-decoration: none;
+}
+.image{
+    margin-top: 20%;
+    margin-left: 15%;
+    width: 400px;
+    height: 500px;
+    position: absolute;
+}
